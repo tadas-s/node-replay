@@ -3,7 +3,7 @@ http = require("http");
 request = require("request");
 replay = require("../lib/replay");
 
-http.get("htt://www.iheartquotes.com/api/v1/random", function(response) {
+http.get("http://www.iheartquotes.com/api/v1/random", function(response) {
   response.body = "";
   response.on("error", function(err) {
     console.log(err);
