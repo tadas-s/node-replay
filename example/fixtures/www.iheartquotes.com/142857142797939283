@@ -1,0 +1,16 @@
+GET /api/v1/random
+
+HTTP/1.1 200 undefined
+connection: close
+etag: "2b791fbf8c41c8d4dd4e84ea35c864af"
+x-ua-compatible: IE=Edge,chrome=1
+date: Thu, 09 Apr 2015 09:23:47 GMT
+x-runtime: 0.070859
+content-type: text/plain
+cache-control: max-age=0, private, must-revalidate
+server: thin 1.2.6 codename Crazy Delicious
+via: 1.1 vegur
+
+OK, so you're a Ph.D.  Just don't touch anything.
+
+[fortune] http://iheartquotes.com/fortune/show/46398
